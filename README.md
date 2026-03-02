@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning FastAPI<br>🎯 Goals: learn ML<br></p>
+<p align="left">📚 I'm currently learning FastAPI</p>
 
 ###
 
